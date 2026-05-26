@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**pedro-g-neto/pedro-g-neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  I am Pedro, Software Engineering student at Federal Institute of Paraíba. Currently, I am focusing my studies on Data Engineering & Analytics.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Languages: Python | SQL
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Tools: Docker | Visual Studio Code | Antigravity | PostgreSQL
+</p>
+
+<p align="left">
+  💌 My socials: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Outlook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:pedrogomesipubi2006@hotmail.com" alt="Outlook"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gomes-146b52341/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroggneto" alt="Instagram"/></a>
+</p>
