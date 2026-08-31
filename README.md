@@ -26,6 +26,6 @@
 </p>
 
 ### Certifications
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
+<a href="https://www.credly.com/badges/4cd58ce0-593e-47eb-ada8-a009e80b3b5b/public_url" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a4372ad3-a10d-43d1-a425-7e72e195a62d" alt="Linux Unhatched Badge" width="130">
+</a>
