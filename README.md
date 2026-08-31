@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: Docker | Visual Studio Code | Antigravity | PostgreSQL
+  💼 Tools: Docker | Visual Studio Code | Antigravity | PostgreSQL | dbt | MinIO | Apache Airflow | n8n
 </p>
 
 <p align="left">
@@ -24,3 +24,8 @@
   <a href="https://www.instagram.com/pedro.parquet" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedro.parquet" alt="Instagram"/></a>
 </p>
+
+### Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
